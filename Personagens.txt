@@ -4,5 +4,6 @@ C3PO
 Lea Organa
 Jar Jar
 Darth Wader
+Obi Kenobi
 Jabba 
 
